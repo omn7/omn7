@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **dev.omn@protonmail.com**
+- 📫 How to reach me **dev.om@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
