@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year Computer Science and Engineering student from BVCOEL with a passion for technology, problem-solving, and innovation. Currently exploring the vast world of programming, data structures, and algorithms, I am eager to learn and apply my skills to real-world challenges.<br><br>My interests lie in Web development, Machine learning, and Blockchain, and I am actively working on improving my coding abilities through projects and hands-on experience. I enjoy collaborating with like-minded individuals and am always open to learning new technologies.
+I am a first-year Computer Science and Engineering student from BVCOE with a passion for technology, problem-solving, and innovation. Currently exploring the vast world of programming, data structures, and algorithms, I am eager to learn and apply my skills to real-world challenges.<br><br>My interests lie in Web development, Machine learning, and Blockchain, and I am actively working on improving my coding abilities through projects and hands-on experience. I enjoy collaborating with like-minded individuals and am always open to learning new technologies.
 
 
 ## 🌐 Socials:
