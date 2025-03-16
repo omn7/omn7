@@ -1,5 +1,5 @@
 # 💫 About Me:
-a full-stack maestro who speaks fluent Java and dreams in binary 101. rocking front-end finesse and backend brilliance. Currently leveling up my DSA game—because who doesn’t love a good binary tree challenge?
+A full-stack maestro who speaks fluent Java and dreams in binary 101. rocking front-end finesse and backend brilliance. Currently leveling up my DSA game—because who doesn’t love a good binary tree challenge?
 
 
 ## 🌐 Socials:
